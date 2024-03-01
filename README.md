@@ -4,7 +4,7 @@ Our AI will help assist doctors in correctly assessing patients' X-rays by overl
 
 Problem Statement: 
 Doctors examine x-rays of a person to diagnose which has a chance of minor errors or overlooking other diseases. 
-X amount of people are incorrectly diagnosed or missed in diagnosing at the early stages. 
+795,000 amount of people are incorrectly diagnosed or missed in diagnosing at the early stages just in America. 
 This may lead the patient to misunderstand what they are diagnosed with and unknowingly harm themselves
 
 Mission Statment:
