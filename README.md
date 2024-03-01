@@ -9,7 +9,7 @@ This may lead the patient to misunderstand what they are diagnosed with and unkn
 
 Mission Statment:
 Our mission is to create an AI that can identify all possible diseases in a person just by looking at an X-ray. 
-Due to the time restriction, we have to take up only the identification of pneumonia in the thorax. We can improve efficiency by using computer models powered by AI and ML. 
+We have to take up only the identification of pneumonia in the thorax. We can improve efficiency by using computer models powered by AI and ML. 
 This will help doctors back up their decisions and even prevent plausible dangers at an early stage.
 
 Solution:
