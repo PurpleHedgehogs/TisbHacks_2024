@@ -28,3 +28,6 @@ ________________________________________________________________________________
 7. We used 10 epochs to have the AI read the data plenty of times to increase the accuracy and precision
 8. We began to predict the accuracy and print it out(98.4% accuracy)
 9. We tested our code by using images from the internet and checked whether we got correct results or not
+
+
+Watch our youtube video: https://www.youtube.com/watch?v=hXBlt6yFj7k
